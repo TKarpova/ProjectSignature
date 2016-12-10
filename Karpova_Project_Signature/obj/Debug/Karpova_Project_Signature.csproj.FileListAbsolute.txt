@@ -1,0 +1,5 @@
+c:\users\татьяна\documents\visual studio 2015\Projects\Karpova_Project_Signature\Karpova_Project_Signature\bin\Debug\Karpova_Project_Signature.exe
+c:\users\татьяна\documents\visual studio 2015\Projects\Karpova_Project_Signature\Karpova_Project_Signature\bin\Debug\Karpova_Project_Signature.pdb
+c:\users\татьяна\documents\visual studio 2015\Projects\Karpova_Project_Signature\Karpova_Project_Signature\obj\Debug\Karpova_Project_Signature.exe
+c:\users\татьяна\documents\visual studio 2015\Projects\Karpova_Project_Signature\Karpova_Project_Signature\obj\Debug\Karpova_Project_Signature.pdb
+C:\Users\Татьяна\Documents\Visual Studio 2015\Projects\Karpova_Project_Signature\Karpova_Project_Signature\obj\Debug\Karpova_Project_Signature.csprojResolveAssemblyReference.cache
